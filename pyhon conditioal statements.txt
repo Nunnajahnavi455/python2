@@ -1,0 +1,39 @@
+control flow statements in python:_
+CASE:1  condition flow statement
+ if
+ if-else
+ if-elif-else
+ if-elif
+
+NOTE:-
+switch
+else
+break
+these are not present in python
+
+CASE:2  iterative flow
+ for loop& while loop
+ NOTE:-
+ do ---while loop
+ these are not aplicable
+
+
+ case1;-
+
+ if condition:
+   =
+   =
+  sal=15000
+   if sal>40000:
+     print("eligible of m")
+
+ITERATIVE STATEMENTS:-
+str
+list
+tuple
+set
+dict
+range
+bytes
+bytearray
+

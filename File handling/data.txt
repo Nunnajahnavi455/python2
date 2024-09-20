@@ -1,0 +1,26 @@
+JSON data type:=                                 PYTHON datatype
+number
+string
+boolen 
+undefined
+
+null
+stringsymbol
+
+object
+[] {}
+# here we have to convert the json data type to python datatype.
+->JSON module contains
+random()
+->random()
+->randint
+->rangeor()
+sample()
+
+=>JSON 
+1)loads()
+2)dumps()
+3)load()
+4)dump()
+=>json loads convert json data object.
+=>json.dumps():-convert python object/data into json type.
