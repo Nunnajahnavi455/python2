@@ -1,13 +1,17 @@
 import requests
 import json
 import csv
-api.url='https://jsonplaceholder.typicode.com/users'
+api_url='https://jsonplaceholder.typicode.com/users'
 user_Data=None
+users=None
 try:
-    user_Data=request.get(api-url)
-except:
+    user_Data=requests.get(api_url)
+    users=user_Data.json()
+    user_Data.raise_for_status()
+except requests.exceptions.RequestException as e:
     fp=open('user.json','r')
-    user_Data=fp.load(fp)
+    users=json.load(fp)
 #analyse data[users]
 # write into csv file
-# print(type(user_Data))
+print(type(users))
+print(users)
