@@ -12,7 +12,7 @@ class Account:
         print("low bal")
 #when we have to declare a class in inner side then we use [self ].
 #when we have to declare a class in outer side then we use [object].
-a1=Account()
+a1=Account()  #creating object
 a2=Account()
 a3=Account()
 
