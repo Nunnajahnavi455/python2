@@ -2,7 +2,7 @@ Inheritence:-
 ->Reusing existing class functionality.
 ->adding new features.
 ->Code Reusability.
-
+=>cyclic inheritance is not possible.
 types of inheritence:-
 ------------------------
 1)single:-child extending parent
