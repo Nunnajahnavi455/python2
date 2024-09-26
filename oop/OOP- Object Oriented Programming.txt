@@ -3,12 +3,4 @@ OOP:- Object Oriented Programming
 ->with the  help of class we create object.
 ->class:- class is a template  or datatype or plan/draft or design it is used to create object.
 =>once object is created then memory location is allocated.
-->class variables:- variables means properties
-1)instance variables
-2)static variables
-3)class variables
-->methods:- methods means function
-1)instance methods
-2)class methods
-3)constructor methods :-it is a special method. it is used to intialise the object values. constructor method invoke automatically only once at the time of object creation.we can't invoke constructor method  explicitly.
-4)static methods
+->

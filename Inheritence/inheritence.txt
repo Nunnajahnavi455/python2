@@ -1,0 +1,30 @@
+Inheritence:-
+->Reusing existing class functionality.
+->adding new features.
+->Code Reusability.
+
+types of inheritence:-
+------------------------
+1)single:-child extending parent
+         | parent  -m1,m2
+            
+            |
+            |         
+          child   -m3
+ex:-
+   class (Parent):
+       pass
+   class child(parent):
+        pass
+2)Multiple :-
+   p1      p2
+       p3
+    class parent:
+        pass
+    class parent(Gp):
+        pass
+    class child(parent):
+         pass
+3)Multilevel
+4)Heirarchy
+5)Hybrid
