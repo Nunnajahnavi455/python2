@@ -1,0 +1,5 @@
+Mongo DB:-No sql database,it is json/document database
+install pymongo 
+
+cmd>pip install pymongo
+
